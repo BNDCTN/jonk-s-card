@@ -3,7 +3,7 @@ Web-app with gallery
 
 1) To build this app you need to install Node.js and npm.
 2) Run Node.js command prompt and go on folder of this project by console commands.
-3) Run 'npm install' in Node.js command prompt to install all dependencies that described in "package.json" file
+3) Run 'npm install' in Node.js command prompt to install all dependencies that described in "package.json" file.
 
 "devDependencies": {
     "babel-core": "^6.18.2",
